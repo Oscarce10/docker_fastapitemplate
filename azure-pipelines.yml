@@ -1,5 +1,6 @@
 trigger:
-  - docker
+  - master
+  - dev
 
 resources:
     repositories:
